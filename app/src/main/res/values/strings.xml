@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ac">AC</string>
+    <string name="backspace">Backspace</string>
+    <string name="abcd">/</string>
+    <string name="_7">7</string>
+    <string name="acb">AC</string>
+    <string name="backspaces">Backspace</string>
+    <string name="aa">(</string>
+    <string name="bb">)</string>
+    <string name="seven">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="division">/</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="x">x</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="subs">-</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="cofficent_of_a"><small>Coefficent \n of x^2</small></string>
+    <string name="abc">cofficent_of_a</string>
+    <string name="cofficent_of_b"><small>Coefficent \n of x</small></string>
+    <string name="submit">Submit</string>
+    <string name="cofficent_of_c"><small>Constant</small></string>
+</resources>
