@@ -2,13 +2,6 @@
 
 This Android Studio project is a Simple Calculator App designed to perform basic arithmetic operations as well as logarithmic and exponential functions. The app provides a user-friendly interface for all basic mathematical computations suitable for educational, professional, or personal use.
 
-## Developed By
-- Ananya Srivastava(221B063)
-- Anika Gupta(221B066)
-- Aniket Gupta(221B067)
-
-This project is developed as part of  the Mobile and Application Development (MAD) lab course.
-
 ## Features
 - **Basic Arithmetic Operations**: Allows the user to perform addition, subtraction, multiplication, and division.
 - **Logarithmic Functions**: Compute the natural logarithm (ln) and logarithm base 10.
